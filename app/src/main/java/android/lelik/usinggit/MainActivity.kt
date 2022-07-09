@@ -9,5 +9,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
       var  hello = "helloGit"
+        var newHello = "Hey there!"
     }
 }
