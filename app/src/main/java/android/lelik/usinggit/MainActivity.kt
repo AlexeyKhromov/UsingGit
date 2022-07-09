@@ -12,5 +12,6 @@ class MainActivity : AppCompatActivity() {
         var newHello = "Hey there!"
 
         //Connect Firebase to te project
+        //Code after pushing to remote
     }
 }
