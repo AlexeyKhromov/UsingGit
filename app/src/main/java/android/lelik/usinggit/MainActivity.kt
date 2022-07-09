@@ -10,5 +10,7 @@ class MainActivity : AppCompatActivity() {
 
       var  hello = "helloGit"
         var newHello = "Hey there!"
+
+        //Connect Firebase to te project
     }
 }
